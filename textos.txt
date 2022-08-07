@@ -1,0 +1,15 @@
+¿Quién soy?
+Desarrollador Full Stack con orientación tanto al front-end, back-end, lógica de programación y Base de Datos con capacidad de desarrollar proyectos web/mobiles teniendo siempre en cuenta que sean escalables y modularizable para así poder construir en equipo.
+
+¿Por qué yo?
+Todos los miembros de esta comunidad tenemos excelentes habilidades técnicas, sin embargo conmigo obtendrás un desarrollador curios con gran capacidad de resolución de problemas y sobre todo un desarrollador siempre dispuesto a enseñar y aprender de los demás.
+
+Mi experiencia.
+Con la pandemia decidí hacer una reconversión laboral hacia las industrias de nuevas tecnologías. Comencé realizando cursos en Cursera en alianza con Google y la Universidad de Mitchigan.
+Actualmente me encuentro cursando en el bootcamp Henry y en el de Oracle-Alura (proyecto ONE), donde puedo ejercitar mis capacidades técnicas, pero por sobretodo mis capacidades sociales como desarrollador.
+Tengo conocimientos sobre HTTML5, CSS3, Javascript, Canvas, React, Redux, Node.js, Express, Sequelize, Postgres, Sql, Python, Google Cloud Plataforma y muchas más!
+También tengo cursos, porque me apasiona, en el Mercado de Capitales, Stock, futuros, opciones. He operado en la plataforma de NinjaTrader entre otras.
+
+¿Quieres saber más de mi? ¡Contáctame!
+email; ramirotaramasco@gamil.com
+
